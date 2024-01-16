@@ -1,0 +1,30 @@
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\bin\Debug\GrocerShop.exe.config
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\bin\Debug\GrocerShop.exe
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\bin\Debug\GrocerShop.pdb
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.csproj.AssemblyReference.cache
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.Form1.resources
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.Properties.Resources.resources
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.csproj.GenerateResource.cache
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.csproj.CoreCompileInputs.cache
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.exe
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.pdb
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.Loginform.resources
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\bin\Debug\Guna.UI2.dll
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.Employees.resources
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.items.resources
+C:\Users\AzTech\source\repos\GrocerShop\GrocerShop\obj\Debug\GrocerShop.csproj.CopyComplete
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\bin\Debug\GrocerShop.exe.config
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\bin\Debug\GrocerShop.exe
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\bin\Debug\GrocerShop.pdb
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\bin\Debug\Guna.UI2.dll
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.csproj.AssemblyReference.cache
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.Employees.resources
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.Form1.resources
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.items.resources
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.Loginform.resources
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.Properties.Resources.resources
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.csproj.GenerateResource.cache
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.csproj.CoreCompileInputs.cache
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.csproj.CopyComplete
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.exe
+C:\Users\AzTech\OneDrive\İş masası\GrocerShop - Copy\GrocerShop\obj\Debug\GrocerShop.pdb
